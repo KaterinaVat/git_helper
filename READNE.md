@@ -24,10 +24,10 @@
 ---------
 ---------
 # Связь локального репозитория с github 
-git init
-touch EXAMPLE.TXT
-git add EXAMPLE.TXT // . 
-git commit -m "Initial commit"
-git remote add origin git@github.com:KaterinaVat/git_helper.git
-git remote -v
-$ git push -u origin master
+git init  
+touch EXAMPLE.TXT  
+git add EXAMPLE.TXT // .  
+git commit -m "Initial commit"  
+git remote add origin git@github.com:KaterinaVat/git_helper.git  
+git remote -v  
+$ git push -u origin master  
